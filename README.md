@@ -1,10 +1,16 @@
 # 💫About Me :
 🔭 I’m currently working on Backyard Picasso.
+
 🌱 I’m currently learning more about Flutter.
+
 👯 I’m looking to collaborate on Flutter.
+
 💬 Ask me about Flutter related stuff.
+
 📫 How to reach me: Twitter - @Harshlaad3.
+
 😄 Pronouns: He/His.
+
 ⚡ Fun fact: I spend almost 6 hours listening to songs every day.
 
 ## 🌐Socials
